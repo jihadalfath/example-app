@@ -1,4 +1,4 @@
-@extends('products.layout')
+@extends('customers.layout')
 
   
 
