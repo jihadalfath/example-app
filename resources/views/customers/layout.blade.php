@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Belajar CRUD Customers</h1>
+        <h1>Belajar CRUD customers</h1>
         @yield('content')
     </div>
     
